@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-webflow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Webflow MCP Pack",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-34efcea0771f8cb5d0465bc811cca4aab8fe32396ee93e3934c570104f93af29",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-3e3bb62ed87165aef69cbfcf3251df81a3cc4f11dd05651603f1d83bd233f4af",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
